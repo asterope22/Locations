@@ -1,3 +1,4 @@
+["de_mirage"] = { ["44"] = { ["PalaceInterior->PlantBox"] = { pos = Vector.new(77.114471435547, -2339.8894042969, -39.96875), ["Plant"] = { ang = QAngle.new(17.909999084473, 113.59999847412, 0.0), runduration = 8, jumpduration = 0, speed = 130.93601989746, strength = 1, duck = false, jump = false, },
 ["1619817265932"] =
 {
 	pos = Vector.new(-1624.3024902344, 831.95318603516, 11776.03125),
